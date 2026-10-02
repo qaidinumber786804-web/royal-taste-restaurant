@@ -1,0 +1,6 @@
+{
+  "name": "Royal Taste Restaurant",
+  "description": "A luxury, modern, and fully responsive restaurant website for Royal Taste Restaurant. Features menu filters, WhatsApp ordering, reservation inquiry, curated gallery, customer reviews, and interactive dining experience. Created by SAMAR WEB STUDIO.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
